@@ -1,0 +1,12 @@
+# Site settings
+title: Embrace the knowlege
+email: makarocha@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Small pieces of my thoughts.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://makapoxa.github.io" # the base hostname & protocol for your site
+twitter_username: Makapoxa
+github_username:  makapoxa
+
+# Build settings
+markdown: kramdown
