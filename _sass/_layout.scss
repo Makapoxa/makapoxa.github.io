@@ -183,7 +183,7 @@
     color: $grey-color;
 }
 
-.post-link {
+a.post-link {
     display: block;
     font-size: 24px;
 }
@@ -197,7 +197,11 @@
     margin-bottom: $spacing-unit;
 }
 
-.post-title {
+a.post-title, .post-title {
+    color: $text-color;
+    &:hover {
+      text-decoration: none;
+    }
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
