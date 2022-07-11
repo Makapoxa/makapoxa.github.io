@@ -1,0 +1,7 @@
+---
+layout: no-title-post
+title: ""
+date:   2022-07-11 16:00:00
+categories: life
+---
+Only care about what you can control. Don't worry about things you cannot
